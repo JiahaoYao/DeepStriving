@@ -9,7 +9,7 @@
 -   AdaGrad
 -   [NAdam](http://cs229.stanford.edu/proj2015/054_report.pdf)
 
-<div align = 'center'><img src="https://raw.githubusercontent.com/JiahaoYao/DeepStriving/blob/master/examples/opts/images/opt.png" width='600px'></div>
+<div align = 'center'><img src="https://raw.githubusercontent.com/JiahaoYao/DeepStriving/blob/master/examples/optim/images/opt.png" width='600px'></div>
 
 ### How to Reproduce
 
